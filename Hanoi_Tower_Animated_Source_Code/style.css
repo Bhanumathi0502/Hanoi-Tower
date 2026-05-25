@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    overflow:hidden;
+    background:#7a1248;
+    font-family:Arial;
+}
+
+.controls{
+    position:absolute;
+    top:10px;
+    left:10px;
+    z-index:10;
+}
+
+input,button{
+    padding:8px;
+    font-size:16px;
+}
+
+canvas{
+    display:block;
+}
